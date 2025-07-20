@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kareem 👋</h1>
-<h3 align="center">🚀 Self-taught Developer | 🇪🇬 Egypt | 💻 Python, Lua & Arduino Enthusiast</h3>
+<h1 align="center">Hi, I'm Karim 👋</h1>
+<h3 align="center">🚀 Developer | 🇪🇬 Egypt | 💻 Python, Lua & Arduino Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+build+real-world+tools+and+automation;Fast.+Clean.+Minimalist.;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 ## 🧠 About Me
 
-I'm Kareem, a self-taught developer from Egypt with a relentless passion for crafting **functional, clean, and efficient software** that solves real problems.
+I'm Karim, a self-taught developer from Egypt with a relentless passion for crafting **functional, clean, and efficient software**.
 
 I specialize in **Python**, **Lua**, and **Arduino**, and enjoy combining software with hardware to build tools that just **work** — whether it's a bot that automates repetitive tasks or a microcontroller project that interacts with the physical world.
 
-My code is minimal, powerful, and always focused on delivering practical results.
+My code is minimal and always focused on delivering practical results.
 
 ---
 
@@ -59,15 +59,15 @@ My code is minimal, powerful, and always focused on delivering practical results
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemalzainy&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimAlzainy&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kareemalzainy&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KarimAlzainy&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareemalzainy&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarimAlzainy&theme=github_dark" />
 </p>
 
 ---
@@ -75,17 +75,16 @@ My code is minimal, powerful, and always focused on delivering practical results
 ## 🔗 Featured Projects
 
 - 🧠 **Smart Automation Scripts** – For Telegram, scraping, and file manipulation  
-- 🔌 **Bluetooth-Controlled Relays** – Built with ESP32 + phone apps  
+- 🔌 **Basic apps** – Built so you don't have to recreate some things (ex. Weather app)  
 - 🧰 **Tkinter Desktop Tools** – Clean UI, powerful features  
-- 🛰️ **ESP Projects** – Remote control, sensor input, and more
+- 🛰️ **Hardware Projects** – Opening electric door with phone app and more
 
-Want to see more? [Check out my repositories »](https://github.com/kareemalzainy)
+Want to see more? [Check out my repositories »](https://github.com/KarimAlzainy)
 
 ---
 
 ## ✍️ Recent Highlights
-
-- 🎉 Launched multiple freelance tools for clients across Egypt and abroad  
+  
 - 📦 Built internal-use bots for scraping, parsing, and automated file handling  
 - 💡 Experimented with using Python + Lua together in hybrid automation projects
 
@@ -95,9 +94,9 @@ Want to see more? [Check out my repositories »](https://github.com/kareemalzain
 
 I'm always open to collaborating on cool projects, new ideas, or freelance gigs.
 
-- 📫 Email: **kareem@example.com**  
-- 💬 Telegram: [@yourhandle](https://t.me/yourhandle)  
-- 🌍 GitHub: [@kareemalzainy](https://github.com/kareemalzainy)
+- 📫 Email: **kareemalzainy@gmail.com**  
+- 💬 Telegram: [@KarimAlzainy](t.me/KarimAlzainy)  
+- 🌍 GitHub: [@KarimAlzainy](https://github.com/KarimAlzainy)
 
 ---
 
@@ -111,10 +110,9 @@ I'm always open to collaborating on cool projects, new ideas, or freelance gigs.
 ---
 
 > _“Clean code. Real output. No fluff.”_  
-> — Kareem
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareemalzainy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KarimAlzainy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
