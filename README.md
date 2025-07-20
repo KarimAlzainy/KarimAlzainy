@@ -44,12 +44,12 @@ My code is minimal and always focused on delivering practical results.
 ## 🧰 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,html,arduino,vscode,pycharm,roblox,github,selenium,windows" />
+  <img src="https://skillicons.dev/icons?i=python,lua,html,arduino,vscode,pycharm,git,github,selenium,windows" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Windows%2C%20Linux-blue?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code,%20Pycharm%20and%20Kaggle-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/MCU-ESP32%2C%20Arduino-red?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Thonny%2C%20ArduinoIDE-green?style=flat-square" />
 </p>
