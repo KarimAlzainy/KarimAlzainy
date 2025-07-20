@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-I'm Karim, a self-taught developer from Egypt with a relentless passion for crafting **functional, clean, and efficient software**.
+I'm Karim, a developer from Egypt with a relentless passion for crafting **functional, clean, and efficient software**.
 
 I specialize in **Python**, **Lua**, and **Arduino**, and enjoy combining software with hardware to build tools that just **work** — whether it's a bot that automates repetitive tasks or a microcontroller project that interacts with the physical world.
 
