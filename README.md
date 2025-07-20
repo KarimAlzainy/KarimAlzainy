@@ -44,7 +44,7 @@ My code is minimal and always focused on delivering practical results.
 ## 🧰 My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,html,css,arduino,vscode,git,github,selenium,linux" />
+  <img src="https://skillicons.dev/icons?i=python,lua,html,arduino,vscode,pycharm,git,github,selenium,windows" />
 </p>
 
 <p align="center">
