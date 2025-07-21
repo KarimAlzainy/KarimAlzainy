@@ -95,7 +95,8 @@ Want to see more? [Check out my repositories »](https://github.com/KarimAlzainy
 I'm always open to collaborating on cool projects, new ideas, or freelance gigs.
 
 - 📫 Email: **kareemalzainy@gmail.com**  
-- 💬 Telegram: [@KarimAlzainy](t.me/KarimAlzainy)  
+- 💬 Telegram: [@KarimAlzainy](t.me/KarimAlzainy)
+- 📱 Phone number/Whatsapp: **+201122664116**
 - 🌍 GitHub: [@KarimAlzainy](https://github.com/KarimAlzainy)
 
 ---
