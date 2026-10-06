@@ -1,119 +1,62 @@
 <h1 align="center">Hi, I'm Karim 👋</h1>
-<h3 align="center">🚀 Developer | 🇪🇬 Egypt | 💻 Python, Lua & Arduino Enthusiast</h3>
+<h3 align="center">Founder & CEO @ EXTEM | Full-Stack & Systems Developer | 🇪🇬 Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+build+real-world+tools+and+automation;Fast.+Clean.+Minimalist.;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Building+digital+infrastructure+at+EXTEM;Web+Systems+%7C+Automation+%7C+Embedded;Fast.+Scalable.+Built+to+last." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I'm Karim, a developer from Egypt with a relentless passion for crafting **functional, clean, and efficient software**.
+I'm Karim, Founder and CEO of **[EXTEM](https://extem.net)**. 
 
-I specialize in **Python**, **Lua**, and **Arduino**, and enjoy combining software with hardware to build tools that just **work** — whether it's a bot that automates repetitive tasks or a microcontroller project that interacts with the physical world.
+I lead web systems, backend infrastructure, and custom software development at EXTEM, turning complex requirements into production-ready platforms. My focus is on architecture that scales cleanly, runs fast, and delivers real commercial value.
 
-My code is minimal and always focused on delivering practical results.
-
----
-
-## 🔨 What I Do
-
-✅ **Web Scraping & Automation**  
-• Clean, structured data scraping using **Selenium**, **BeautifulSoup**, and **Playwright**  
-• Smart automation scripts that save hours of manual work
-
-✅ **Desktop GUI Applications**  
-• Custom tools built with **Tkinter** for Windows users  
-• Lightweight, fast, and built for real-world use
-
-✅ **Hardware & Embedded Systems**  
-• Projects using **Arduino**, **ESP32**, and **HC-05/HC-06**  
-• Bluetooth automation, relay triggers, IoT-style builds
-
-✅ **Custom Bots & Scripts**  
-• Telegram bots, file automation, API integration  
-• Efficient command-line tools for personal or business use
-
-✅ **Open Source Contributions & Personal Projects**  
-• Always tinkering with something new  
-• Passion projects that turn into useful public tools
+Beyond management, I'm hands-on with full-stack web architectures, automation pipelines, and hardware integration.
 
 ---
 
-## 🧰 My Tech Toolbox
+## 🛠️ What I Do
+
+⚡ **Full-Stack Web Systems & APIs**  
+• Building robust platforms and web applications using **Next.js**, **Flask**, and **Supabase**  
+• Deploying high-availability infrastructure using **Cloudflare** and custom backend setups
+
+🤖 **Workflow Automation & Custom Scripting**  
+• Web scraping engines, automated data pipelines, and custom bots  
+• Process automation designed to eliminate manual overhead for businesses
+
+🔌 **Embedded Systems & IoT**  
+• Custom hardware projects integrating **Arduino**, **ESP32**, and Bluetooth/wireless modules  
+• Interfacing hardware with web backends and mobile/desktop controls
+
+💼 **Agency Leadership @ EXTEM**  
+• Directing technical strategy, product delivery, and client infrastructure at **extem.net**
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,lua,html,arduino,vscode,pycharm,git,github,selenium,windows" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,python,flask,supabase,cloudflare,html,css,arduino,vscode,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows%2C%20Linux-blue?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code,%20Pycharm%20and%20Kaggle-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCU-ESP32%2C%20Arduino-red?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Thonny%2C%20ArduinoIDE-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Company-EXTEM-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack%20%26%20Systems-darkgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-Supabase%20%2F%20PostgreSQL-emerald?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-Cloudflare-orange?style=flat-square" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 EXTEM & Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarimAlzainy&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KarimAlzainy&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarimAlzainy&theme=github_dark" />
-</p>
+- 🌐 **[extem.net](https://extem.net)** – Digital services, custom web architecture, backend infrastructure, and media solutions.
+- 🏥 **Medical Platform Deployment** – Client management system and database backend built on Supabase and Cloudflare Workers for client booking and dynamic scheduling.
+- ⚡ **Automation Engines** – High-speed data scraping, file conversion pipelines, and workflow automation.
 
 ---
 
-## 🔗 Featured Projects
-
-- 🧠 **Smart Automation Scripts** – For Telegram, scraping, and file manipulation  
-- 🔌 **Basic apps** – Built so you don't have to recreate some things (ex. Weather app)  
-- 🧰 **Tkinter Desktop Tools** – Clean UI, powerful features  
-- 🛰️ **Hardware Projects** – Opening electric door with phone app and more
-
-Want to see more? [Check out my repositories »](https://github.com/KarimAlzainy)
-
----
-
-## ✍️ Recent Highlights
-  
-- 📦 Built internal-use bots for scraping, parsing, and automated file handling  
-- 💡 Experimented with using Python + Lua together in hybrid automation projects
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on cool projects, new ideas, or freelance gigs.
-
-- 📫 Email: **kareemalzainy@gmail.com**  
-- 💬 Telegram: [@KarimAlzainy](t.me/KarimAlzainy)
-- 📱 Phone number/Whatsapp: **+201122664116**
-- 🌍 GitHub: [@KarimAlzainy](https://github.com/KarimAlzainy)
-
----
-
-## 🧭 Fun Facts
-
-- ⚡ I prefer practical tools over theoretical fluff.  
-- 🤖 I love breaking down big problems into small, code-sized pieces.  
-- 🧩 I’m all about **efficiency**, **clarity**, and **doing more with less**.  
-- 🔍 I enjoy debugging just as much as building.
-
----
-
-> _“Clean code. Real output. No fluff.”_  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KarimAlzainy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+##
