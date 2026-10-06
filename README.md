@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Karim 👋</h1>
-<h3 align="center">Founder & CEO @ EXTEM | Full-Stack & Systems Developer | 🇪🇬 Egypt</h3>
+<h3 align="center">Founder & CEO @extemnet | Full-Stack & Systems Developer | 🇪🇬 Egypt</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Building+digital+infrastructure+at+EXTEM;Web+Systems+%7C+Automation+%7C+Embedded;Fast.+Scalable.+Built+to+last." alt="Typing SVG" />
@@ -54,7 +54,7 @@ Beyond management, I'm hands-on with full-stack web architectures, automation pi
 ## 🌐 EXTEM & Featured Work
 
 - 🌐 **[extem.net](https://extem.net)** – Digital services, custom web architecture, backend infrastructure, and media solutions.
-- 🏥 **Medical Platform Deployment** – Client management system and database backend built on Supabase and Cloudflare Workers for client booking and dynamic scheduling.
+- 🏥 **Medical Platform Deployment** – Client management system and database backend for client booking and dynamic scheduling.
 - ⚡ **Automation Engines** – High-speed data scraping, file conversion pipelines, and workflow automation.
 
 ---
